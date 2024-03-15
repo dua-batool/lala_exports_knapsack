@@ -1,0 +1,21 @@
+	Welcome to lala exports
+	Weight limit = 20,000 KG
+
+Here is your revised list of items
+
+shipment Number: 34 
+Customer Name: dua
+Phone Number: 123
+=========================================================
+Products		QTY	Weight 	Price 
+=========================================================
+Baby Cradle		4	560	100000
+--------------------------------------------------------
+
+Total Tax on items			 Rs:10500.0
+Total Value of items: 			 Rs:150000 
+Total Weight of items: 			 920 KG 
+--------------------------------------------------------
+
+Thank you for choosing lala exports.
+--------------------------------------------------------
